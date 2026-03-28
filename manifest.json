@@ -1,0 +1,10 @@
+{
+  "id": "feishu-calendar-launcher",
+  "name": "飞书日历",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "在 Obsidian 内嵌飞书日历，优先通过飞书 API 读写日程，并保留 CalDAV 兼容能力。",
+  "author": "teo_z",
+  "authorUrl": "https://github.com/teo_z",
+  "isDesktopOnly": true
+}
